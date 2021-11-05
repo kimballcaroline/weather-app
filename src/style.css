@@ -56,7 +56,7 @@ h3 {
   font-size: 36px;
   display: block;
   margin: 0% 0% 0% 52%;
-  -webkit-text-stroke: 0.1px grey;
+  -webkit-text-stroke: 1px grey;
   -webkit-text-fill-color: #fff852;
 }
 
